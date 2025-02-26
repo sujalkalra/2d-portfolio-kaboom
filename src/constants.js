@@ -1,13 +1,13 @@
 export const scaleFactor = 4;
 
 export const dialogueData = {
-  pc: `This is my PC. I work mostly in JavaScript/TypeScript these days.
-    I've made a couple of games in that language. I also like Golang and Python. Anyway regardless of the language, I just like programming.
-    Here is my <a href="https://github.com/jslegenddev" target="_blank">Github</a>!`,
-  "cs-degree": `This is my CS degree. I hung it on the wall because I'm proud of it. It was a very theoretical degree but I think it gave me a good foundation.`,
-  "sofa-table": `That's my sofa. I like to relax here and watch YouTube. 
-  I also make game programming tutorials on YouTube. Go sub to <a href="https://youtube.com/@jslegenddev" target="_blank">my channel</a>! (If you like the content)
-  You'll learn how I built this portfolio you're currently playing through!`,
+  pc: `This is my PC. I work mostly in Python Libraries like (Pandas,Langchain) these days.
+    I've made a couple of Projects in that language. I also like Java and JavaScript. Anyway regardless of the language, I just like programming.
+    Here is my <a href="https://github.com/sujalkalra" target="_blank">Github</a>!`,
+  "cs-degree": `This is my CS degree by Harvard. I hung it on the wall because I'm proud of it. It was a very theoretical degree but I think it gave me a good foundation.`,
+  "sofa-table": `That's my sofa. I like to relax here and watch YouTube with snacks and cup of hot Coffee. 
+  I also make Tech memes on Instagram . Go follow my insta <a href="https://instagram.com/@compilersuji" target="_blank">Profile</a>!
+  You'll see that how versatile i am not only code but how i use to make coders smile.`,
   tv: `That's my TV. I've been watching tech youtubers a lot recently like :
    <a href="https://www.youtube.com/@ThePrimeTimeagen" target="_blank">Theprimeagen</a>, <a href="https://www.youtube.com/@t3dotgg" target="_blank">Theo - t3.gg</a>,
   <a href="https://www.youtube.com/@PirateSoftware" target="_blank">PirateSoftware</a> (sometimes) and <a href="https://www.youtube.com/@MelkeyDev" target="_blank">Melkey</a>!`,
